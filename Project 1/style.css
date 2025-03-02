@@ -1,0 +1,14 @@
+button {
+    background-color: cyan;
+    color: black;
+    border-color: cyan;
+    height:5vh;
+    width:20vw;
+}
+.container{
+    border:1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
